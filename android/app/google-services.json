@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872187052291",
+    "firebase_url": "https://bobotaxi-2b23c.firebaseio.com",
+    "project_id": "bobotaxi-2b23c",
+    "storage_bucket": "bobotaxi-2b23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872187052291:android:0a5eaf9619cd5f64e92936",
+        "android_client_info": {
+          "package_name": "com.josh.bobo_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872187052291-ul7jkpooouqr89dlagkr7vveqdb6mdcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josh.bobo_taxi",
+            "certificate_hash": "86ba92d92496f8669ab2657d1085ef2054acc670"
+          }
+        },
+        {
+          "client_id": "872187052291-0963vgs4hatsfr6r8mvbiu02hb2b5kio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwusTMbNunU8g2dHBJHxNjTrDgt8Krdro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872187052291-0963vgs4hatsfr6r8mvbiu02hb2b5kio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
